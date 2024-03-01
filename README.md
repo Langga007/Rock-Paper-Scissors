@@ -1,0 +1,1 @@
+This is a mini project, I worked on for a few hours, I have just finished my bootcamp and wanted to explore and improve my skills, I have learned how to manipulate DOM a lot better than before using basic Javascript. This is the first Mini Project I have done with regards to the ODIN Project.
